@@ -146,13 +146,14 @@ The manually annotated dataset uses the following labels:
 - No Specific Complaint
 
 ### B) Evaluation Results
-
+<p>
 <img width="588" height="294" alt="image" src="https://github.com/user-attachments/assets/28fcb67f-0c28-4cdc-8dd8-85d80725bf4f" />
-
+</p>
+  
 ### C) Overall Metrics
-
+<p>
 <img width="815" height="66" alt="image" src="https://github.com/user-attachments/assets/dbd691e7-6b8f-4017-bcc8-c19e094aba0b" />
-
+</p>
 
 ## 9. How to use the app
 
